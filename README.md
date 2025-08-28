@@ -17,13 +17,7 @@ A .NET tool for extracting and generating Protocol Buffer definitions from compi
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ProtobufDecoder.git
-cd ProtobufDecoder
-```
-
-2. Build the project:
+1. Build the project:
 ```bash
 dotnet build
 ```
